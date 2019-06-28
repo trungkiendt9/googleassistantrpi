@@ -1,6 +1,7 @@
 #!/bin/bash
 
-source /home/pi/googleassistantrpi/env/bin/activate
+cd /home/pi/googleassistantrpi
+source env/bin/activate
 google-assistant-demo
 
 exit 0
