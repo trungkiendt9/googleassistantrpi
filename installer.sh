@@ -13,3 +13,6 @@ python -m pip install --upgrade google-auth-oauthlib[tool]
 # Authorize Google Assistant using Client Json File
 # Below, replace “THE NAME OF THE DOWNLOADED CLIENT JSON FILE” with the exact name of the client file you downloaded from google (Making sure that the client json file is in the Downloads folder)
 google-oauthlib-tool --client-secrets /home/pi/Downloads/THE NAME OF THE DOWNLOADED CLIENT JSON FILE --scope https://www.googleapis.com/auth/assistant-sdk-prototype --save --headless
+cd /home/pi/googleassistantpackages
+sudo mv garp.sh /home/pi
+exit 0
