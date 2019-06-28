@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd googleassistantpackages
+cd /home/pi/googleassistantpackages
 source env/bin/activate
 google-assistant-demo
 
