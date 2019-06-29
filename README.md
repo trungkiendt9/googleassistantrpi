@@ -1,5 +1,3 @@
 # Google Assistant Packages
-Please make sure that before running the Installer you edit it using text editor and change the "THE NAME OF THE DOWNLOADED CLIENT JSON FILE" to the exact name of your downloaded client json file.  
-Then make the Installer executable using sudo chmod +x installer.sh    .
-Now you should be ready to go.  Execute sudo ./installer.sh .   
-Instructions are at https://www.techsmarts.tk/tech-tutorials/google-assistant-on-rpi. 
+All instructions are located at: https://www.techsmarts.tk/tech-tutorials/google-assistant-on-rpi
+If you have any questions or you encounter any problems, feel free to post them in the Tech Smarts Community Forum so that Tech Smarts and other people can give you assistance.  
